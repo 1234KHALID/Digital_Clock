@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #eee;
+}
+
+#root{
+    position: absolute;
+     top: 30%;
+     left: 20%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border: 1px solid red;
+     width: 700px;
+     border-radius: 20px;
+     font-size:5rem;
+    font-weight: 1000;
+    padding: 100px;
+    background-color: #fff;
+}
+
